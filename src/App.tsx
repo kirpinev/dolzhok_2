@@ -166,7 +166,7 @@ export const App = () => {
           Как это работает
         </Typography.TitleResponsive>
 
-        <Gap size={8} />
+        <Gap size={4} />
 
         <div style={{ display: "flex", gap: "1rem" }}>
           <ButtonMobile
