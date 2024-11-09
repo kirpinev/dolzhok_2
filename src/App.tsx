@@ -293,7 +293,7 @@ export const App = () => {
               До 3 активных долгов
             </Typography.Text>
             <Typography.Text tag="p" view="primary-medium">
-              49 руб./мес.
+              49 руб./нед.
             </Typography.Text>
           </div>
           <div
