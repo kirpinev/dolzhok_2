@@ -52,7 +52,6 @@ export const App = () => {
           >
             ДолжОК
           </Typography.TitleResponsive>
-          <Gap size={12} />
           <Typography.Text tag="p" view="primary-medium" color="secondary">
             Удобный и лёгкий сервис учёта долгов. Забудьте о неловких разговорах
             и путанице в расчётах.
@@ -165,8 +164,6 @@ export const App = () => {
         >
           Как это работает
         </Typography.TitleResponsive>
-
-        <Gap size={4} />
 
         <div style={{ display: "flex", gap: "1rem" }}>
           <ButtonMobile
@@ -380,7 +377,7 @@ export const App = () => {
             view="primary-small"
             style={{
               margin: "-2.2rem auto 12px auto",
-              padding: "0.5rem",
+              padding: "0.5rem 1rem",
               backgroundColor: "black",
               color: "white",
               borderRadius: "0.5rem",
